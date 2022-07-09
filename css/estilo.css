@@ -1,0 +1,131 @@
+.titulo {
+  background-image: url(https://i.pinimg.com/originals/9e/6e/3d/9e6e3d27cd762b6a9956b08a7b1a1944.jpg);
+  background-size: 200px;
+  background-position: center;
+  text-align: center; }
+  .titulo a {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 6rem;
+    font-weight: bold;
+    text-decoration: none; }
+
+nav {
+  background-color: #3d3d3a; }
+  nav .nav-link {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f1ba03;
+    font-size: 1rem; }
+    nav .nav-link:hover {
+      color: white;
+      background-color: black; }
+
+.containertabla {
+  background-image: url(https://merche182.files.wordpress.com/2016/07/564852.jpg);
+  background-size: cover;
+  background-repeat: no-repeat; }
+  .containertabla .giras {
+    color: #f1ba03;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold; }
+  .containertabla table .titulostabla {
+    color: #b6c55d;
+    text-align: center; }
+  .containertabla table .contenidotabla {
+    color: white;
+    text-align: center; }
+
+.bodysorteo {
+  background-image: url(https://images.squarespace-cdn.com/content/v1/587d33a54402432706c7e9e7/1553571527181-9XX1RAML6LIVR86016WE/Arctic+Monkeys+OCESA+Lul%C3%BA+Urdapilleta++++++++++1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .bodysorteo .containerformulario {
+    text-align: center; }
+    .bodysorteo .containerformulario .tituloform {
+      color: #f1ba03;
+      font-family: Arial, Helvetica, sans-serif; }
+    .bodysorteo .containerformulario .subtituloform {
+      color: #f1ba03;
+      font-family: Arial, Helvetica, sans-serif; }
+    .bodysorteo .containerformulario form {
+      color: wheat; }
+
+.bodynoticias {
+  background-color: black; }
+  .bodynoticias .containernoticias .noticia1 {
+    color: #f1ba03;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #3d3d3a;
+    border-radius: 45%; }
+  .bodynoticias .containernoticias .parrafo1 {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black; }
+  .bodynoticias .containernoticias .noticia2 {
+    color: #f1ba03;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #3d3d3a;
+    border-radius: 45%; }
+  .bodynoticias .containernoticias .parrafo2 {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black; }
+  .bodynoticias .containernoticias .noticia3 {
+    color: #f1ba03;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #3d3d3a;
+    border-radius: 45%; }
+  .bodynoticias .containernoticias .parrafo3 {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black; }
+  .bodynoticias .containernoticias .noticia4 {
+    color: #f1ba03;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #3d3d3a;
+    border-radius: 45%; }
+  .bodynoticias .containernoticias .parrafo4 {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black; }
+
+.containervideos {
+  background-color: black; }
+  .containervideos .titulovideos {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline; }
+
+.bodyfotos {
+  background-color: black; }
+
+footer {
+  background-color: #3d3d3a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px; }
+  footer .sociales {
+    min-width: 700px;
+    display: flex;
+    justify-content: space-around; }
+    footer .sociales a {
+      text-decoration: none;
+      font-size: 25px;
+      width: 50px;
+      height: 40px;
+      text-align: center;
+      background-color: #3d3d3a;
+      color: wheat;
+      border-radius: 15%; }
+      footer .sociales a:hover {
+        transform: scale(1.2);
+        color: white; }
